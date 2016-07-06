@@ -1,3 +1,5 @@
+*.bin
+*.userdb/
 cangjie5.prism.bin
 cangjie5.reverse.bin
 cangjie5.table.bin
@@ -7,7 +9,6 @@ double_pinyin_flypy.schema.yaml
 easy_en.prism.bin
 easy_en.reverse.bin
 easy_en.table.bin
-easy_en.userdb/
 installation.yaml
 luna_pinyin.extended.prism.bin
 luna_pinyin.extended.reverse.bin
@@ -16,7 +17,6 @@ luna_pinyin.prism.bin
 luna_pinyin.reverse.bin
 luna_pinyin.schema.yaml
 luna_pinyin.table.bin
-luna_pinyin.userdb/
 luna_pinyin_fluency.prism.bin
 luna_pinyin_fluency.schema.yaml
 luna_pinyin_simp.prism.bin
@@ -32,6 +32,8 @@ stroke.reverse.bin
 stroke.schema.yaml
 stroke.table.bin
 symbols.yaml
+terra_pinyin.schema.yaml
+user.yaml
 wubi86.reverse.bin
 wubi86.table.bin
 wubi_pinyin.prism.bin

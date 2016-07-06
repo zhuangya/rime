@@ -3,13 +3,12 @@ patch:
     caption: 〔方案选单〕
     hotkeys:
     - Control+grave
-    
+
   menu:
-    page_size: 7
+    page_size: 5
   schema_list:
+  - schema: terra_pinyin         # 地球拼音
   - schema: luna_pinyin_simp     # 朙月拼音 简化字
   - schema: luna_pinyin          # 朙月拼音
   - schema: luna_pinyin_fluency  # 语句流
-  - schema: double_pinyin_flypy  # 小鶴雙拼
-  - schema: wubi_pinyin          # 五笔拼音混合輸入
 

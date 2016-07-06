@@ -1,23 +1,23 @@
 patch:
 
   show_notifications_when: appropriate  # 状态通知，适当，也可设为全开（always）全关（never）
-  
+
   style:
     color_scheme: apathy
 
   preset_color_schemes:
 
     apathy:
-   
+
       name: "冷漠 / Apathy"
       author: "LIANG Hai "
 
-      horizontal: true  # 水平排列
+      horizontal: false  # 水平排列
       inline_preedit: true #单行显示，false双行显示
       candidate_format: "%c\u2005%@\u2005"  # 用 1/6 em 空格 U+2005 来控制编号 %c 和候选词 %@ 前后的空间。
 
       corner_radius: 5  #候选条圆角
-      border_height: 0 
+      border_height: 0
       border_width: 0
       back_color: 0xFFFFFF  #候选条背景色
       font_face: "PingFangSC-Regular,H-SiuNiu,HanaMinA,HanaMinB"  #候选词字体
