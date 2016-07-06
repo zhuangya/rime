@@ -3,4 +3,4 @@
 
 usage:
 
-`hub clone zhuangya/rime /Users/nos/Library/Rime`
+`git clone https://github.com/zhuangya/rime $HOME/Library/Rime`
