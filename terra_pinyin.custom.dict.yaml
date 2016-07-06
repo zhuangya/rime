@@ -1,1 +1,8 @@
-luna_pinyin.custom.dict.yaml
+---
+name: luna_pinyin.custom
+version: "2015.11.09"
+sort: by_weight
+use_preset_vocabulary: true
+import_tables:
+  - terra_pinyin
+  - luna_pinyin.emoji

@@ -1,1 +1,2 @@
-luna_pinyin.custom.yaml
+patch:
+  translator/dictionary: terra_pinyin.custom
