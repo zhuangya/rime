@@ -11,932 +11,145 @@
 # %APPDATA%\Rime  (Windows)
 #
 # 於重新部署後生效
-# no comment
+#
 
 ---
 name: luna_pinyin.cn_en
-version: "2016.6.19"
+version: "2015.1.18"
 sort: by_weight
 use_preset_vocabulary: true
 ...
 
-
-←	left	1000
-→	right	1000
-↓	down	1000
-↑	up	1000
-↖	home	1000
-↘	end	1000
-↵	return	1000
-␣	space	1000
-↹	tab	1000
-⇤	tab left	1000
-⇥	tab riht	1000
-⇞	pgup	1000
-⇟	pgdn	1000
-⇧	shift	1000
-⇧⌃⌥⌘	dian nao	1000
-⇪	caps	1000
-⇪	caps lock	1000
-⌃	control	1000
-⌃	ctl	1000
-⌅	enter	1000
-⌘	cmd	1000
-⌘	command	1000
-⌥	alt	1000
-⌥	opt	1000
-⌥	option	1000
-⌦	del forward	1000
-⌫	del	1000
-⎋	esc	1000
-⎋	power	1000
-⏏	eject	1000
-⊞	win	1000
-2B	er bi	1000
-3D Touch	san d touch	1000
-3G	san ji	1000
-4G	si ji	1000
-阿 Q	a q	1000
-阿 Q 正傳	a q zheng zhuan	1000
-單邊 z 變換	dan bian z bian huan	1000
-逗 B	dou bi	1000
-哆啦 A 夢	duo la a meng	1000
-卡拉 OK	ka la ok	1000
-牛 B	niu bi	1000
-三 K 黨	san k dang	1000
-三 K 黨	san kei dang	1000
-傻 B	sha bi	1000
-智能 ABC	zhi neng a b c	1000
-裝 B	zhuang bi	1000
-A 股	a gu	1000
-A 盤	a pan	1000
-A 片	a pian	1000
-AA 制	a a zhi	1000
-AAC	aac	1000
-AAX	aax	1000
-AcFUN	ac fun	1000
-Adapter	adapter	1000
-Adblock	ad block	1000
-Adobe	adobe	1000
-ADSL	adsl	1000
-Afterlight	after light	1000
-AGPS	a gps	1000
-AIFF	aiff	1000
-Air Display	air display	1000
-Air Video	air video	1000
-AirDroid	air droid	1000
-AirDrop	air drop	1000
-Airmail	air mail	1000
-AirPlay	air play	1000
-AirPort	air port	1000
-AirPrint	air print	1000
-AirServer	air server	1000
-Al Nile	al nile	1000
-Al Tarikh	al tarikh	1000
-AlBayan	al bayan	1000
-Alfred	alf red	1000
-Amazon	amazon	1000
-Amazon Cloud Drive	amazon cloud drive	1000
-Amazon Fire	amazon fire	1000
-AmazonBasics	amazon basics	1000
-AMD	amd	1000
-AmericanTypewriter	americantypewriter	1000
-Amphetamine	amp hetamine	1000
-Andale Mono	andale mono	1000
-Android	android	1000
-AnyConnect	any connect	1000
-AnyDrop	any drop	1000
-Aperture	aperture	1000
-API	api	1000
-App Store	app store	1000
-App Store Marketing Guidelines	app store marketing guidelines	1000
-AppFridays	app fridays	1000
-Apple	apple	1000
-Apple Chancery	apple chancery	1000
-Apple Configurator	apple configurator	1000
-Apple Developer	apple developer	1000
-Apple EarPods	apple earpods	1000
-Apple File System	apple file system	1000
-Apple ID	apple id	1000
-Apple Lossless	apple lossless	1000
-Apple Music	apple music	1000
-Apple News	apple news	1000
-Apple Pay	apple pay	1000
-Apple Store	apple store	1000
-Apple TV	apple tv	1000
-Apple Watch	apple watch	1000
-AppleCare+	apple care	1000
-AppleMyungjo	apple myungjo	1000
-AppleTalk	apple talk	1000
-AppShopper	app shopper	1000
-AptBackup	apt backup	1000
-Arduino	arduino	1000
-Aria2	aria er	1000
-Aria2	aria tu	1000
-Aria2GUI	aria er gui	1000
-Arial	arial	1000
-Arial Black	arial black	1000
-Arial Narrow	arial narrow	1000
-Arial Rounded	arial rounded	1000
-Arial Unicode	arial unicode	1000
-ARP	arp	1000
-ASCII	ascii	1000
-aText	a text	1000
-Athelas	athelas	1000
-ATI	ati	1000
-ATM	atm	1000
-ATM 機	atm ji	1000
-Atom	a tom	1000
-Audible Enhanced Audio	audible enhanced audio	1000
-Automator	auto mator	1000
-Auxo	auxo	1000
-Axure	axure	1000
-Ayuthaya	ayuthaya	1000
-AZW	azw	1000
-B 超	b chao	1000
-B 股	b gu	1000
-B 淋巴細胞	b lin ba xi bao	1000
-B 盤	b pan	1000
-B 細胞	b xi bao	1000
-Baghdad	baghdad	1000
-Bangla	bangla	1000
-Bartender	bartender	1000
-Baskerville	baskerville	1000
-BBC	bbc	1000
-Beirut	beirut	1000
-Belkin	belkin	1000
-Belkin USB	belkin usb	1000
-Better Rename	better rename	1000
-BetterSnap Tool	better snap tool	1000
-BetterTouchTool	better touch tool	1000
-BetterZip	better zip	1000
-Beyond Compare	beyond compare	1000
-BFR	bfr	1000
-BigCaslon	bigcaslon	1000
-BMP	bmp	1000
-Bodoni	bodoni	1000
-Bold	bold	1000
-BoldItalic	bold italic	1000
-Bose soundlink	bose soundlink1000
-Brackets	brackets	1000
-Bradley Hand	bradley hand	1000
-Brush Script	brush script	1000
-Bug	bug	1000
-BundleHunt	bundle hunt	1000
-Bypass	by pass	1000
-Byword	by word	1000
-C 盤	c pan	1000
-C 語言	c yu yan	1000
-C++	c jia jia	1000
-Caffeine	caffeine	1000
-Calcbot	calcbot	1000
-Calibre	calibre	1000
-Calibri	calibri	1000
-CarPlay	car play	1000
-CDMA	cdma	1000
-CDN	cdn	1000
-Cellular	cellular	1000
-Chalkboard	chalk board	1000
-Chalkduster	chalk duster	1000
-Charles	charles	1000
-Charter	charter	1000
-CheatSheet	cheat sheet	1000
-ChemBioDraw	chem bio draw	1000
-Chrome	chrome	1000
-Cisco	cisco	1000
-Cisco IPSec	cisco ipsec	1000
-CleanMyMac	clean my mac	1000
-Clear	clear	1000
-CloudApp	cloud app	1000
-CloudMagic	cloud magic	1000
-cnBeta	cn beta	1000
-Cochin	cochin	1000
-Cocoa Touch	cocoa touch	1000
-Cocoon	co coon	1000
-Coda	co da	1000
-CodeBox	code box	1000
-CodeKit	code kit	1000
-CodeRunner	code runner	1000
-ColorSchemer	color schemer	1000
-ColorSnapper	color snapper	1000
-Comic Sans MS	comic sans ms	1000
-Cond	cond	1000
-Control Center	control center	1000
-Copperplate	copperplate	1000
-Cornerstone	Corner stone	1000
-Corsiva	corsiva	1000
-Cortana	cortana	1000
-Courier New	courier new	1000
-Cuff	cuff	1000
-Curio	curio	1000
-Current Mac Bundles	current mac bundles	1000
-Cydia	cydia	1000
-D 盤	d pan	1000
-D-Link	d link	1000
-DailyCost	daily cost	1000
-DaisyDisk	daisy disk	1000
-Damascus	damascus	1000
-Dash	dash	1000
-Dashboard	dash board	1000
-Datagraph	data graph	1000
-DataMeter	data meter	1000
-Day One	day one	1000
-DecoTypeNaskh	deco type naskh	1000
-Default	default	1000
-Default Folder X	default folder x	1000
-Desktop	desk top	1000
-Devanagari	devanagari	1000
-Developer Preview	developer preview	1000
-Device Firmware Upgrade	device firmware upgrade	1000
-DEVONthink	devon think	1000
-DFU	d f u	1000
-DHCP	dhcp	1000
-Didot	didot	1000
-DIN Alternate	din alternate	1000
-DIN Condensed	din condensed	1000
-Disk Utility	disk utility	1000
-DiskMaker	disk maker	1000
-DisplayPort	display port	1000
-Diumoo	diumoo	1000
-Diwan Kufi	diwan kufi	1000
-Diwan Thuluth	diwan thuluth	1000
-DNA	d n a	1000
-DNS	d n s	1000
-DOC	doc	1000
-Dock	dock	1000
-DOCX	doc x	1000
-Domain Name System	domain name system	1000
-Double Tour	double tour	1000
-Drafts	drafts	1000
-Dropbox	drop box	1000
-Dropshare	drop share	1000
-Dropzone	drop zone	1000
-Due	due	1000
-Duet	duet	1000
-DVD	dvd	1000
-DVI	dvi	1000
-DynamicLyrics	dynamic lyrics	1000
-E 盤	e pan	1000
-EarPods	ear pods	1000
-EDGE	edge	1000
-Editorial	editorial	1000
-EI Capitan	ei capitan	1000
-Element	element	1000
-Elevation	elevation	1000
-Entropy	entropy	1000
-ePub	epub	1000
-eSATA	e sata	1000
-EuphemiaCAS	euphemia cas	1000
-Eureka	eureka	1000
-EV-DO	ev do	1000
-Evernote	ever note	1000
-Excel	excel	1000
-ExFAT	ex fat	1000
-ExtraLight	extra light	1000
-F 盤	f pan	1000
-Facebook	Face book	1000
-FaceTime	face time	1000
-Fantastical	fan tastical	1000
-FAQ	faq	1000
-Farah	farah	1000
-Farisi	farisi	1000
-FileBrowser	file browser	1000
-FileVault	file vault	1000
-Final Cut Pro	final cut pro	1000
-Find My iPhone	find my iphone	1000
-Finder	finder	1000
-FineReader	fine reader	1000
-Firefox	fire fox	1000
-FireWire	fire wire	1000
-Flickr	flickr	1000
-Flux	flux	1000
-Focus Pixels	focus pixels	1000
-Followers	followers	1000
-Following	following	1000
-FontAwesome	font awesome	1000
-Force Touch	force touch	1000
-Forecast	fore cast	1000
-ForkLift	fork lift	1000
-Frank DeLoupe	frank deloupe	1000
-FTP	ftp	1000
-Fura Code	fura code	1000
-Fura Mono	fura mono	1000
-Fusion Drive	fusion drive	1000
-Futura	futura	1000
-G 點	g dian	1000
-G 盤	g pan	1000
-Game Center	game center	1000
-GarageBand	Garage band	1000
-GB	gb	1000
-Geekbench	geek bench	1000
-Gemini	ge mini	1000
-Genius	genius	1000
-Genius Bar	genius bar	1000
-Georgia	georgia	1000
-Gestimer	ges timer	1000
-GhostNote	ghost note	1000
-GhostTile	ghost tile	1000
-GHz	ghz	1000
-GIF	gif	1000
-Gif Brewery	gif brewery	1000
-Gigabit Ethernet Adapter	gigabit ethernet adapter	1000
-GillSans	gillsans	1000
-Gists	gists	1000
-GitHub	github	1000
-GLONASS	glonass	1000
-Gmail	gmail	1000
-Gneo	gneo	1000
-Go2Shell	go er shell	1000
-Go2Shell	go tu shell	1000
-GoagentX	go agent x	1000
-GoodReader	good reader	1000
-Google	google	1000
-Google Chrome	google chrome	1000
-Google Drive	google drive	1000
-Google Maps	google maps	1000
-Google Music	google music	1000
-Gopher	go pher	1000
-GoPro	go pro	1000
-GPS	gps	1000
-Graffle	graffle	1000
-GRE	gre	1000
-GSM	gsm	1000
-GUI	gui	1000
-Gujarati	gujarati	1000
-Gurmukhi	gurmukhi	1000
-H 股	h gu	1000
-H 盤	h pan	1000
-HanaMin	hana min	1000
-Handoff	hang off	1000
-Hazel	hazel	1000
-HDMI	hdmi	1000
-HDR	hdr	1000
-HE-AAC	he aac	1000
-Heavy	heavy	1000
-HeavyItalic	heavy italic	1000
-Herculanum	herculanum	1000
-Hermès	hermes	1000
-HHKB	hhkb	1000
-HiRise	hi rise	1000
-Hoefler Text	hoefler text	1000
-Home	home	1000
-Homebrew	home brew	1000
-HomeKit	home kit	1000
-HOSTS	hosts	1000
-HSPA	hspa	1000
-HTML	html	1000
-HTTP	http	1000
-HTTPS	https	1000
-I 盤	i pan	1000
-iA Writer	ia writer	1000
-iBeacon	i beacon	1000
-iBooks	i books	1000
-iBooks Author	ibooks author	1000
-iCloud	i cloud	1000
-iCloud Drive	icloud drive	1000
-iCloud Drive Sync	icloud drive sync	1000
-Icons8 App	icons ba	1000
-iExplorer	i explorer	1000
-iFFmpeg	i ffmpeg	1000
-iFile	i file	1000
-iFixit	i fixit	1000
-IFTTT	if ttt	1000
-IKEv2	ikev er	1000
-iKlear	i klear	1000
-iMac	i mac	1000
-ImageOptim	image optim	1000
-iMessage	i message	1000
-iMore	i more	1000
-iMovie	i movie	1000
-Impact	impact	1000
-InaiMathi	inai mathi	1000
-Inboard	in board	1000
-Incase	in case	1000
-Inconsolata	inconsolata	1000
-Infographics	info graphics	1000
-InsomniaX	insomniax	1000
-Instacast	insta cast	1000
-Instaframe Pro	insta frame pro	1000
-Instagram	insta gram	1000
-Instashare	insta share	1000
-Intellij IDEA	intellij idea	1000
-Intensify	intensify	1000
-iOS	i os	1000
-iOS 10	ios shi	1000
-iOS 10	ios x	1000
-iOS 9	ios jiu	1000
-iOS 8	ios ba	1000
-iOS 7	ios qi	1000
-Iowan Old Style	iowan old style	1000
-IP	ip	2000
-IP 地址	ip di zhi	1000
-IP 電話	ip dian hua	1000
-IP 卡	ip ka	1000
-IP 位址	ip wei zhi	1000
-iPack	i pack	1000
-iPad	i pad	1200
-iPad Air	ipad air	1000
-iPad mini	ipad mini	1000
-iPad Pro	ipad pro	1000
-iPhone	i phone	1500
-iPhone 4	iphone si	1000
-iPhone 4s	iphone si s	1000
-iPhone 5	iphone wu	1000
-iPhone 6	iphone liu	1000
-iPhone 6 Plus	iphone liu plus	1000
-iPhone 6 Plus	iphone liu jia	1000
-iPhone 6s	iphone liu s	1000
-iPhone 6s Plus	iphone liu s plus	1000
-iPhone 6s Plus	iphone liu s jia	1000
-iPhone 7	iphone qi	1000
-iPhone SE	iphone se	1000
-IPN	ipn	1000
-iPod	i pod	1000
-iPod nano	ipod nano	1000
-iPod shuffle	ipod shuffle	1000
-IPS	ips	1000
-IPTV	ip tv	1000
-IPv4	ip v si	1000
-IPv6	ip v liu	1000
-iSight	isight	1000
-iStat Menus	istat menus	1000
-iTerm	iterm	1000
-ITFDevanagari	itfdevanagari	1000
-iThoughtsX	ithoughts x	1000
-iTunes	i tunes	1000
-iTunes Connect	itunes connect	1000
-iTunes Match	itunes match	1000
-iTunes U	itunes u	1000
-iWatch	i watch	1000
-J 盤	j pan	1000
-Jailbreak	Jail break	1000
-JavaScript	java script	1000
-Jietu	jie tu	1000
-JPEG	jpeg	1000
-JS Blocker	js blocker	1000
-Just Mobile	just mobile	1000
-K 寶	k bao	1000
-K 寶	kei bao	1000
-K 粉	k fen	1000
-K 粉	kei fen	1000
-K 歌	k ge	1000
-K 歌	kei ge	1000
-Kailasa	kailasa	1000
-Kaleidoscope	kaleido scope	1000
-Kannada	kannada	1000
-Karabiner	kara biner	1000
-KB	kb	1000
-Kefa	kefa	1000
-Keka	keka	1000
-Keyboard Maestro	keyboard maestro	1000
-Keycard	key card	1000
-KeyCue	key cue	1000
-Keynote	key note	1000
-Khmer	khmer	1000
-Kindle	kindle	1000
-Kindle Format	kindle format	1000
-Kindle Oasis	kindle oasis	1000
-Kindle Paperwhite	kindle paperwhite	1000
-Kindle Unlimited	kindle unlimited	1000
-Kindle Voyage	kindle voyage	1000
-Knock	knock	1000
-Kodi	kodi	1000
-Kokonor	kokonor	1000
-Krungthep	krungthep	1000
-KufiStandardGK	kufistandard gk	1000
-L2TP	l er tp	1000
-L4 Stand	l si stand	1000
-Lacie	lacie	1000
-LaTeXian	la te xian	1000
-Launch Center Pro	launch center pro	1000
-Launcher	launcher	1000
-Launchpad	launch pad	1000
-LED	led	1000
-Lexar	lexar	1000
-LG	lg	1000
-Light	light	1000
-LightItalic	light italic	1000
-Lightning	light ning	1000
-Lightning Digital AV Adapter	lightning digital av adapter	1000
-Lightning to USB	lightning to usb	1000
-Lightning to VGA Adapter	lightning to vga adapter	1000
-Linux	linux	1000
-Little Snitch	little snitch	1000
-Live Cams Pro	live cams pro	1000
-Live Photos	live photos	1000
-LiveReload	live reload	1000
-Living Earth Clock	living earth clock	1000
-LockScreen	lock screen	1000
-LTE	lte	1000
-Luminari	luminari	1000
-Mac	mac	1000
-MAC 地址	mac di zhi	1000
-Mac App Store	mac app store	1000
-Mac Rumors	mac rumors	1000
-MacAppDeals	mac app deals	1000
-MacBook	mac book	1000
-MacBook Air	macbook air	1000
-MacBook Pro	macbook pro	1000
-MacID	mac id	1000
-macOS	mac os	1000
-macOS Sierra	macos sierra	1000
-MacTips	mac tips	1000
-MacUpdate Desktop	mac update desktop	1000
-Mad Catz	mad catz	1000
-Magic Keyboard	magic keyboard	1000
-Magic Mouse	magic mouse	1000
-Magic Trackpad	magic trackpad	1000
-MagSafe	mag safe	1000
-MagSafe Power Adapter	mag safe power adapter	1000
-Mailbox	mail box	1000
-Malayalam	malayalam	1000
-MAMP PRO	mamp pro	1000
-Manico	manico	1000
-Maple	maple	1000
-Marion	marion	1000
-MarkDown	mark down	1000
-MarkMyWords	mark my words	1000
-MarsEdit	mars edit	1000
-MaterialIcons	materialicons	1000
-Mathtype	math type	1000
-MB	mb	1000
-Mbps	mbps	1000
-Medium	medium	1000
-MediumItalic	mediumitalic	1000
-Mercury Browser Pro	mercury browser pro	1000
-Mextures	mextures	1000
-Micro SD	micro sd	1000
-Micro-SIM	micro sim	1000
-Microsoft	micro soft	1000
-Microsoft Sans Serif	micro soft sans serif	1000
-Mini DisplayPort	mini display port	1000
-MIPS	mips	1000
-Mishafi	mishafi	1000
-Mishafi Gold	mishafi gold	1000
-Mission Control	mission control	1000
-MOBI	mobi	1000
-Mobile Mouse	mobile mouse	1000
-Moke	moke	1000
-Money Monitor	money monitor	1000
-Moneywiz	money wiz	1000
-Moom	moom	1000
-Mountie	mountie	1000
-Moves	moves	1000
-Movist	movist	1000
-Mozilla	mozilla	1000
-MP3	mp san	1000
-MP4	mp si	1000
-MplayerX	m player x	1000
-Mshtakan	mshtakan	1000
-mStand	m stand	1000
-MTU	mtu	1000
-Multi-Touch	multi touch	1000
-Muna	muna	1000
-Myanmar	myanmar	1000
-MyriadPro	myriad pro	1000
-Nadeem	nadeem	1000
-Nano-SIM	nano sim	1000
-Nano-SIM 卡	nano sim	1000
-NAS	nas	1000
-NAT	nat	1000
-NBA	nba	1000
-NetBIOS	net bios	1000
-Netflix	net flix	1000
-Network Extension	network extension	1000
-NewPeninim	newpeninim	1000
-NFC	nfc	1000
-Nitrous	nitrous	1000
-Noizio	noizio	1000
-Normal	normal	1000
-Notability	not ability	1000
-Numbers	numbers	1000
-NuPro	nu pro	1000
-nvALT	nv alt	1000
-Nvidia	nv idia	1000
-Objective-C	objective c	1000
-Office	office	1000
-OmmWriter	omm writer	1000
-OmniFocus	omni focus	1000
-OmniGraffle	omni graffle	1000
-OmniOutliner	omni outliner	1000
-OmniPlan	omni plan	1000
-OneDrive	one drive	1000
-OneNote	one note	1000
-OnyX	onyx	1000
-OpenVPN	open vpn	1000
-OperatorMonoSSm	operator mono ssm	1000
-Oriya	oriya	1000
-OTA	ota	1000
-Outlook	out look	1000
-Overcast	over cast	1000
-Overflow	over flow	1000
-Pages	pages	1000
-PaintCode	paint code	1000
-Papyrus	papyrus	1000
-Parallels Desktop	parallels desktop	1000
-Password	password	1000
-Paste	paste	1000
-Pastebot	paste bot	1000
-Paw	paw	1000
-PayPal	pay pal	1000
-PDF	pdf	1000
-Phosphate	phosphate	1000
-Photo Booth	photo booth	1000
-PhotoDesk	photo desk	1000
-Photoshop	photo shop	1000
-Picatext	pica text	1000
-Ping Hei	ping hei	1000
-PingWest	ping west	1000
-Pixave	pix ave	1000
-Pixelmator	pixel mator	1000
-Play by Play	play by play	1000
-PlistEdit	plist edit	1000
-PNG	png	1000
-PopClip	pop clip	1000
-POS 機	pos ji	1000
-PowerPack	power pack	1000
-PowerPoint	power point	1000
-PPPoE	pppoe	1000
-PPT	ppt	1000
-PragmataPro	pragmata pro	1000
-PRC	prc	1000
-Privoxy	privoxy	1000
-Pro	pro	1000
-Promotee	promotee	1000
-Prompt	prompt	1000
-Proxifier	proxifier	1000
-PSP	psp	1000
-PTMono	pt mono	1000
-PTSans	pt sans	1000
-PTSerif	pt serif	1000
-Public Beta	public beta	1000
-PVC	pvc	1000
-Python	python	1000
-Q 幣	q bi	1000
-QNAP NAS	qnap nas	1000
+2B	er b	100
+2B	er bi	100
+AA制	a a zhi	100
+AMD	a m d	100
+ATI	ati	100
+ATM機	a t m ji	100
+Android	android	100
+Arduino	arduino	100
+A他	a ta	100
+A他	ei ta	100
+A她	a ta	100
+A她	ei ta	100
+A死他	a si ta	100
+A死他	ei si ta	100
+A死她	a si ta	100
+A死她	ei si ta	100
+A片	a pian	100
+A盤	a pan	100
+A股	a gu	100
+B淋巴細胞	b lin ba xi bao	100
+B盤	b pan	100
+B細胞	b xi bao	100
+B股	b gu	100
+B超	b chao	100
+C盤	c pan	100
+C語言	c yu yan	100
+DNA	d n a	100
+DVD	d v d	100
+D盤	d pan	100
+E盤	e pan	100
+F盤	f pan	100
+Google	google	100
+G盤	g pan	100
+G點	g dian	100
+H盤	h pan	100
+H股	h gu	100
+IP	i p	100
+IPv6	i p v liu	100
+IPv4	i p v si	100
+IP位址	i p wei zhi	100
+IP卡	i p ka	100
+IP地址	i p di zhi	100
+IP電話	i p dian hua	100
+I盤	i pan	100
+J盤	j pan	100
+K他	k ta	100
+K他	kei ta	100
+K她	k ta	100
+K她	kei ta	100
+K寶	k bao	100
+K寶	kei bao	100
+K歌	k ge	100
+K歌	kei ge	100
+K死他	k si ta	100
+K死他	kei si ta	100
+K死她	k si ta	100
+K死她	kei si ta	100
+K粉	k fen	100
+K粉	kei fen	100
+K金	k jin	100
+K金	kei jin	100
+Linux	linux	100
+MIPS	m i p s	100
+MP3	m p san	100
+MP4	m p si	100
+Mac	mac	100
+Nvidia	nvidia	100
+POS機	p o s ji	100
 QQ	q q	1000
-QQ 號	q q hao	1000
-QQ 號碼	q q hao ma	1000
-QQ 會員	q q hui yuan	1000
-QQ 空間	q q kong jian	1000
-QQ 羣	q q qun	1000
-QQ 郵箱	q q you xiang	1000
-QuickTime Player	quick time player	1000
-Quitter	quitter	1000
-Quiver	quiver	1000
-Raanana	raanana	1000
-Rails	rails	1000
-Rdio	rdio	1000
-Readability	read ability	1000
-Readkit	read kit	1000
-Reeder	reeder	1000
-Regular	regular	1000
-RegularItalic	regular italic	1000
-Regulex	regulex	1000
-Remote	remote	1000
-RescueTime	rescue time	1000
-Results	results	1000
-Retina	retina	1000
-RightFont	right font	1000
-Rime	rime	1000
-Rime	zhong zhou yun	1000
-RMB	rmb	1000
-RobotoSlab	roboto slab	1000
-Roost Laptop Stand Mac	roost laptop stand mac	1000
-RTSP	rtsp	1000
-Ruby on Rails	ruby on rails	1000
-Runtastic Pro	run tastic pro	1000
-Sabrent USB	sabrent usb	1000
-Safari	safari	1000
-Safari View Controller	safari view controller	1000
-Sana	sana	1000
-SaneDesk	sane desk	1000
-Sathu	sathu	1000
-Sauce Code Pro	sauce code pro	1000
-Savoye	savoye	1000
-Scapple	scapple	1000
-scomper@gmail.com	smail	1000
-Scrapbook	scrap book	1000
-ScreenFloat	screen float	1000
-ScreenFlow	screen flow	1000
-Screens VNC	screens vnc	1000
-Scribble	scri bble	1000
-Scrivener	scri vener	1000
-SDK	sdk	1000
-Semibold	semi bold	1000
-SemiboldItalic	semi bold italic	1000
-Seravek	seravek	1000
-SF-UI-Display	sf ui display	1000
-SF-UI-Text	sf ui text	1000
-SFMono	sf mono	1000
-Shadowsocks	shadow socks	1000
-Should I Sleep	should i sleep	1000
-Shree	shree	1000
-Sigil	sigil	1000
-SignPainter	sign painter	1000
-Silom	silom	1000
-SIM 卡	sim ka	1000
-SimHei	sim hei	1000
-Simplenote	simple note	1000
-SimSun	sim sun	1000
-Single Tour	single tour	1000
-Sinhala	sinhala	1000
-Siri	si ri	1000
-Sketch	sketch	1000
-Skia	skia	1000
-Skim	skim	1000
-Slack	slack	1000
-Sleep Cycle	sleep cycle	1000
-Slicy	slicy	1000
-SLIM	slim	1000
-Slope	slope	1000
-Smart Connector	smart connector	1000
-Smart Cover	smart cover	1000
-Snagit	snagit	1000
-Snapselect	snap select	1000
-SnellRoundhand	snell round hand	1000
-Snip	snip	1000
-SOCKS	socks	1000
-Software Development Kit	software development kit	1000
-Solar	solar	1000
-Solar Walk	solar walk	1000
-Sonos	sonos	1000
-SourceHanSans	source han sans	1000
-SourceTree	source tree	1000
-Sparkbox	spark box	1000
-Sparrow	sparrow	1000
-Specialist	specia list	1000
-Speedtest	speed test	1000
-Spendee	spendee	1000
-Splashtop	splash top	1000
-Spotify	spot ify	1000
-Spotlight	spot light	1000
-Spss	spss	1000
-Squirrel	shu xu guan	1000
-Squirrel	squirrel	1000
-sRGB	s rgb	1000
-SSD	ssd	1000
-SSID	ssid	1000
-SSLEdge	ssl edge	1000
-StackSocial	stack social	1000
-Statistics	stati stics	1000
-STM	stm	1000
-StockWatch	stock watch	1000
-Sublime Text	sublime text	1000
-SuperClarendon	super clarendon	1000
-Surge	surge	1000
-Swift	swift	1000
-SwipeSelection	swipe selection	1000
-Symbian	sym bian	1000
-Symbol	sym bol	1000
-Sync for Firefox	sync for firefox	1000
-Synology NAS	synology nas	1000
-T 淋巴細胞	t lin ba xi bao	1000
-T 細胞	t xi bao	1000
-T 型臺	t xing tai	1000
-T 恤	t xu	1000
-T 恤衫	t xu shan	1000
-Tag	tag	1000
-Tahoma	tahoma	1000
-Tamil	tamil	1000
-TB	tb	1000
-TCP/IP	tcp ip	1000
-TeamViewer	team viewer	1000
-TechWeb	tech web	1000
-TeeVee	tee vee	1000
-Telegram	tele gram	1000
-Telugu	telugu	1000
-Terminal	terminal	1000
-TestFlight	test flight	1000
-Texshop	tex shop	1000
-Textastic	text astic	1000
-TextExpander	text expander	1000
-TextGrabber	text grabber	1000
-TextWrangler	text wrangler	1000
-The Unarchiver	the unarchiver	1000
-Thin	thin	1000
-Things	things	1000
-Thunder	thunder	1000
-Thunderbird	thunder bird	1000
-Thunderbolt	thunder bolt	1000
-Thunderbolt Bridge	thunderbolt bridge	1000
-Thunderbolt Ethernet	thunderbolt ethernet	1000
-Time Capsule	time capsule	1000
-Time Machine	time machine	1000
-Times New Roman	times new roman	1000
-Timing	timing	1000
-TinkerTool	tinker tool	1000
-Todo	to do	1000
-Touch	touch	1000
-Touch ID	touch id	1000
-Tower	tower	1000
-TP-LINK	tp link	100
-Trattatello	trattatello	1000
-Trebuchet MS	trebuchet ms	1000
-Trello	trello	1000
-Trigger	trigger	1000
-True Tone	true tone	1000
-TTL	ttl	1000
-Tumblr	tumblr	1000
-TUN	tun	1000
-Turbo Boost	turbo boost	1000
-tvOS	tv os	1000
-Tweetbot	tweet bot	1000
-Twist Plus	twist plus	1000
-Twitter	twitter	1000
-Typora	typora	1000
-U 盾	u dun	1000
-U 盤	u pan	1000
-U 形管	u xing guan	1000
-Uber	u ber	1000
-uBlock	u block	1000
-UIM 卡	uim ka	1000
-Ultralight	ultra light	1000
-Ultrathin	ultra thin	1000
-Ulysses	ulysses	1000
-UMTS	umts	1000
-Unix	unix	1000
-URL	url	1000
-URL Scheme	url scheme	1000
-USB	usb	1000
-USB-A	usb a	1000
-USB-C	usb c	1000
-USIM 卡	u sim ka1000
-V2EX	v er ex	1000
-V2EX	v tu ex	1000
-Verdana	verdana	1000
-Versions	versions	1000
-Vesper	vesper	1000
-VGA	vga	1000
-Virtual private network	virtual private network	1000
-VLC	vlc	1000
-VoLTE	vo lte	1000
-VPN	vpn	1000
-Wallet	wallet	1000
-Waltr	waltr	1000
-Waseem	waseem	1000
-Watch	watch	1000
-watchOS	watch os	1000
-WCDMA	wcdma	1000
-Webdings	webdings	1000
-WeChat	we chat	1000
-WEP	wep	1000
-Whispersync	whisper sync	1000
-Wi-Fi	wai fai	1000
-Wi-Fi	wi fi	1000
-Widget	widget	1000
-WiFi	wai fai	1000
-WiFi	wi fi	1000
-WiFi Explorer	wifi explorer	1000
-WiFi Scanner	wifi scanner	1000
-Wiki	wiki	1000
-Wikipedia	wiki pedia	1000
-Window Tidy	window tidy	1000
-Windows	windows	1000
-Windows Mobile	windows mobile	1000
-Windows Phone	windows phone	1000
-WINS	wins	1000
-Wireless Keyboard	wireless keyboard	1000
-WLAN	wlan	1000
-WLAN + Cellular	wlan jia cellular	1000
-Wolfram	wolfram	1000
-Word	word	1000
-Workflow	work flow	1000
-WorkFlowy	work flowy	1000
-WORKGROUP	work group	1000
-WPA	wpa	1000
-WPA2	wpa er	1000
-Writer Pro	writer pro	1000
-WWDC	wwdc	1000
-X 刀	x dao	1000
-X 光	x guang	1000
-X 染色體	x ran se ti	1000
-X 射線	x she xian	1000
-X-Ray	x ray	1000
-Xbmc	xbmc	1000
-Xbox	x box	1000
-XCode	x code	1000
-XcodeDigits	xcode digits	1000
-Xee	xee	1000
-Xeon	xeon	1000
-XMind	x mind	1000
-xScope	x scope	1000
-XtraFinder	xtra finder	1000
-Y 染色體	y ran se ti	1000
-yEd	yed	1000
-YouTube	you tube	1000
-Yummy FTP	yummy ftp	1000
-z 變換	z bian huan	1000
-z 逆變換	z ni bian huan	1000
-Zapfino	zapfino	1000
-ZEALER	zealer	1000
-Zowie	zowie	1000
-α 粒子	a er fa li zi	1000
-α 射線	a er fa she xian	1000
-β 粒子	bei ta li zi	1000
-β 射線	bei ta she xian	1000
-γ 刀	ga ma dao	1000
-γ 射線	ga ma she xian	1000
-	apple	1000
- Music	apple music	1000
- Pay	apple pay	1000
+QQ會員	q q hui yuan	100
+QQ羣	q q qun	100
+QQ號	q q hao	100
+QQ號碼	q q hao ma	100
+QQ空間	q q kong jian	100
+QQ郵箱	q q you xiang	100
+Q幣	q bi	100
+Rime	rime	100
+Rime	zhong zhou yun	100
+SIM卡	s i m ka	100
+T型臺	t xing tai	100
+T恤	t xu	100
+T恤衫	t xu shan	100
+T淋巴細胞	t lin ba xi bao	100
+T細胞	t xi bao	100
+UIM卡	u i m ka	100
+USB	u s b	100
+USIM卡	u s i m ka100
+U形管	u xing guan	100
+U盤	u pan	100
+U盾	u dun	100
+Wi-Fi	wai fai	100
+Wi-Fi	wi fi	100
+WiFi	wai fai	100
+WiFi	wi fi	100
+Windows	windows	100
+Xeon	xeon	100
+X光	x guang	100
+X刀	x dao	100
+X射線	x she xian	100
+X染色體	x ran se ti	100
+Y染色體	y ran se ti	100
+iMessage	i message	100
+iOS	i os	100
+iPad	i pad	100
+iPhone	i phone	100
+iPod	i pod	100
+iWatch	i watch	100
+z變換	z bian huan	100
+z逆變換	z ni bian huan	100
+α射線	a er fa she xian	100
+α粒子	a er fa li zi	100
+β射線	bei ta she xian	100
+β粒子	bei ta li zi	100
+γ刀	ga ma dao	100
+γ射線	ga ma she xian	100
+三K黨	san k dang	100
+三K黨	san kei dang	100
+二B	er b	100
+二B	er bi	100
+傻B	sha b	100
+傻B	sha bi	100
+卡拉OK	ka la o k	100
+哆啦A夢	duo la a meng	100
+單邊z變換	dan bian z bian huan	100
+智能ABC	zhi neng a b c	100
+牛B	niu b	100
+牛B	niu bi	100
+裝B	zhuang b	100
+裝B	zhuang bi	100
+逗B	dou b	100
+逗B	dou bi	100
+阿Q	a q	100
+阿Q正傳	a q zheng zhuan	100
