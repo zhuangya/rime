@@ -1,5 +1,0 @@
-__patch:
-# Rx: emoji:customize:schema=terry-pinyin {
-  - patch/+:
-      __include: emoji_suggestion:/patch
-# }
