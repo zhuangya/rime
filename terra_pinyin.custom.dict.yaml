@@ -1,6 +1,6 @@
 ---
-name: luna_pinyin.custom
-version: "2015.11.09"
+name: terra_pinyin.custom
+version: "2019.06.18"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
