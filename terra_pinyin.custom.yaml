@@ -11,8 +11,6 @@ patch:
 
   translator/dictionary: terra_pinyin.custom
 
- #  載入朙月拼音擴充詞庫
-  "translator/dictionary": luna_pinyin.extended
 __patch:
 # Rx: emoji:customize:schema=terra_pinyin {
   - patch/+:
