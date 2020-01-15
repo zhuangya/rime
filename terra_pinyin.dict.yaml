@@ -23,7 +23,7 @@
 
 ---
 name: terra_pinyin
-version: "2018.10.22"
+version: "2019.12.13"
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
@@ -9127,7 +9127,6 @@ min_phrase_weight: 100
 哉	zai1
 哊	you4
 哋	di4
-哌	gu1
 哌	pai4
 响	xiang3
 哎	ai1
@@ -15105,6 +15104,7 @@ min_phrase_weight: 100
 桥	qiao2
 桦	hua4
 桧	gui4
+桧	hui4
 桨	jiang3
 桩	zhuang1
 桪	xun2
@@ -15772,6 +15772,7 @@ min_phrase_weight: 100
 檚	chu3
 檛	zhua1
 檜	gui4
+檜	hui4
 檝	ji2
 檞	jie3
 檞	xie4
@@ -19500,7 +19501,8 @@ min_phrase_weight: 100
 睟	sui4
 睠	juan4
 睡	shui4
-睢	sui1
+睢	hui1	30%
+睢	sui1	70%
 督	du1
 睤	bi4
 睥	bi4
@@ -57048,8 +57050,6 @@ min_phrase_weight: 100
 哈迪	ha3 di2
 哈達	ha1 da2
 哈達	ha3 da2
-哌嗪	pai4 qin2
-哌替啶	pai4 ti4 ding4
 哎呀	ai1 ya1
 哎喲	ai1 yao1
 哎喲	ai1 yo1
@@ -73723,7 +73723,9 @@ min_phrase_weight: 100
 檔案夾	dang4 an4 jia2
 檔案轉送	dang3 an4 zhuan3 song4
 檔案轉送	dang4 an4 zhuan3 song4
+檜木	gui4 mu4
 檜木	kuai4 mu4
+檜柏	gui4 bai3
 檜柏	kuai4 bo2
 檢場	jian3 chang2
 檢括	jian3 gua1
@@ -80821,6 +80823,7 @@ min_phrase_weight: 100
 睡覺	shui4 jiao4
 睡覺	shui4 jue2
 睡長覺	shui4 chang2 jiao4
+睢盱	hui1 xu1
 睢寧	sui1 ning2
 睢寧縣	sui1 ning2 xian4
 督率	du1 shuai4
@@ -81771,7 +81774,7 @@ min_phrase_weight: 100
 秦少游	qin2 shao4 you2
 秦嶺山脈	qin2 ling3 shan1 mai4
 秦朝	qin2 chao2
-秦檜	qin1 hui4
+秦檜	qin2 hui4
 秦檜	qin2 kuai4
 秦王破陣樂	qin2 wang2 po4 zhen4 yue4
 秦艽	qin2 jiao1
@@ -83178,6 +83181,7 @@ min_phrase_weight: 100
 紅曲	hong2 qu1
 紅椅子	hong2 yi3 zi5
 紅模子	hong2 mo2 zi5
+紅檜	hong2 gui4
 紅檜	hong2 kuai4
 紅泥月亮	hong2 ni2 yue4 liang5
 紅種人	hong2 zhong3 ren2
