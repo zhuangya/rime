@@ -1,16 +1,8 @@
 ---
 name: terra_pinyin.custom
-version: "2019.06.18"
+version: "2020.04.01"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
   - terra_pinyin
-  - luna_pinyin
   - luna_pinyin.custom
-  - luna_pinyin.emoji
-  - luna_pinyin.extended
-  - luna_pinyin.hanyu
-  - luna_pinyin.kaomoji
-  - luna_pinyin.movie
-  - luna_pinyin.poetry
-  - luna_pinyin.sgmain

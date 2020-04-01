@@ -1,5 +1,17 @@
 patch:
-
+  app_options:
+    org.vim.MacVim:
+      no_inline: true
+    uk.foon.Neovim:
+      no_inline: true
+    com.qvacua.VimR:
+      no_inline: true
+    com.googlecode.iterm2:
+      no_inline: true
+    com.apple.Terminal:
+      no_inline: true
+    com.alfredapp.Alfred:
+      ascii_mode: true
   show_notifications_when: appropriate                   # 状态通知，适当，也可设为全开（always）全关（never）
 
 #  style:
