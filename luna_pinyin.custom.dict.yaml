@@ -12,6 +12,5 @@ import_tables:
   - luna_pinyin.jisuanjicihuidaquan
   - luna_pinyin.kaomoji
   - luna_pinyin.mingxing
-  - luna_pinyin.movie
   - luna_pinyin.sijixingzhenquhuadimingciku
   - luna_pinyin.xiandaihanyuchangyongcibiao
