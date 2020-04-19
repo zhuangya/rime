@@ -5,4 +5,3 @@ sort: by_weight
 use_preset_vocabulary: true
 import_tables:
   - terra_pinyin
-  - luna_pinyin.custom
