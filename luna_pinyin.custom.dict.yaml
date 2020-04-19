@@ -6,8 +6,12 @@ use_preset_vocabulary: true
 import_tables:
   - luna_pinyin
   - luna_pinyin.chengyusuyu
+  - luna_pinyin.cn_en
+  - luna_pinyin.emoji.apple
   - luna_pinyin.emoji.cldr
   - luna_pinyin.jisuanjicihuidaquan
+  - luna_pinyin.kaomoji
   - luna_pinyin.mingxing
+  - luna_pinyin.movie
   - luna_pinyin.sijixingzhenquhuadimingciku
   - luna_pinyin.xiandaihanyuchangyongcibiao

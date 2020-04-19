@@ -5,7 +5,6 @@ patch:
     - schema: terra_pinyin         # 地球拼音
     - schema: luna_pinyin          # 朙月拼音
 
-  ascii_composer/good_old_caps_lock: true  # capslock 键切换英文并输出小写
   ascii_composer/sitch_key:
     Control_L: commit_code
   switcher:
