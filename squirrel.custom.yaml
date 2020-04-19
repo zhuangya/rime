@@ -18,32 +18,29 @@ patch:
   # 状态通知，适当，也可设为全开（always）全关（never）
   show_notifications_when: appropriate
 
-  style/color_scheme: apathy # 方案命名，不能有空格
+  style/color_scheme: Joe
   preset_color_schemes:
-    apathy:
-      author: "Ya Zhuang" # 作者信息
-      back_color: 0xFFFFFF # 候选条背景色，24位色值，16进制，BGR顺序
-      border_color: 0xE0B693 # 边框色
-      candidate_text_color: 0x000000 # 预选项文字颜色
-      comment_text_color: 0x999999 # 拼音等提示文字颜色
-      hilited_back_color: 0xfff0e3 # 第一候选项背景背景色
-      hilited_candidate_label_color: 0x999999 # 第一候选项编号颜色
-      hilited_comment_text_color: 0x999999 # 注解文字高亮
-      hilited_text_color: 0x999999 # 高亮拼音 (需要开启内嵌编码)
-      hilited_candidate_text_color: 0xEE6E00 #候选文字颜色
-      hilited_candidate_back_color: 0xFFF0E4 #候选文字背景色
-      name: "Type"
-      text_color: 0x424242 # 拼音行文字颜色
-      label_color: 0x999999 # 预选栏编号颜色
-      label_font_face: "PingFangSC-Regular,H-SiuNiu,HanaMinA,HanaMinB" # 候选词编号字体
+    Joe:
+      name: Joe
+      author: Ya Zhuang
+      back_color: "0xFEFEFE"
+      text_color: "0xF55014"
+      hilited_text_color: "0xB08510"
+      hilited_back_color: "0xE8E8E8"
+      hilited_candidate_text_color: "0xFAFAFA"
+      hilited_candidate_back_color: "0xF55014"
+      hilited_candidate_label_color: "0xFAFAFA"
+      hilited_comment_text_color: "0xFAFAFA"
+      candidate_text_color: "0x2E0928"
+      label_color: "0x000000"
+      comment_text_color: "0x8C2E0B"
+      label_font_face: "SpotMono-Regular,PingFangSC-Regular,HanaMinA,HanaMinB"
 
-      horizontal: false # just do not 水平排列
-      inline_preedit: true # 单行显示，false双行显示
-      candidate_format: "%c\u2005%@ \u2005" # 用 1/6 em 空格 U+2005 来控制编号 %c 和候选词 %@ 前后的空间。
-      font_point: 16 # 候选文字大小
-      label_font_point: 14 # 候选编号大小
-      corner_radius: 3 # 候选条圆角
-      border_height: 8 # 窗口边界高度，大于圆角半径才生效
-      border_width: 08 # 窗口边界宽度，大于圆角半径才生效
-
-  "app_options/com.runningwithcrayons.Alfred-3/ascii_mode": true
+      horizontal: false
+      inline_preedit: true
+      candidate_format: "%c\u2005%@"
+      font_point: 16
+      label_font_point: 16
+      corner_radius: 3
+      border_height: 4
+      border_width: 4
