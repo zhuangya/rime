@@ -4,11 +4,11 @@
 patch:
   app_options:
     org.vim.MacVim:
-      no_inline: true
+      no_inline: false
     uk.foon.Neovim:
-      no_inline: true
+      no_inline: false
     com.qvacua.VimR:
-      no_inline: true
+      no_inline: false
     com.googlecode.iterm2:
       no_inline: true
     com.apple.Terminal:
@@ -18,6 +18,7 @@ patch:
   # 状态通知，适当，也可设为全开（always）全关（never）
   show_notifications_when: appropriate
 
+  style/inline_preedit: true
   style/color_scheme: Joe
   preset_color_schemes:
     Joe:
