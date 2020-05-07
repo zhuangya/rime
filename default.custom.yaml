@@ -10,7 +10,7 @@ patch:
   switcher:
     abbreviate_options: true
     caption: "〔方案選單〕"
-    fold_options: true # 选项菜单是否折叠显示
+    fold_options: false # 选项菜单是否折叠显示
     hotkeys:
       - "Control+grave"
     option_list_separator: "／"
