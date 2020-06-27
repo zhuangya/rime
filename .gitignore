@@ -2,8 +2,9 @@
 *.d.yaml
 *.schema.yaml
 *.userdb/
+.DS_Store
 default.yaml
 installation.yaml
 squirrel.yaml
 user.yaml
-.DS_Store
+zhwiki.dict.yaml
