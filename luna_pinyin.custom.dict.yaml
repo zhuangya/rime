@@ -5,7 +5,6 @@ sort: by_weight
 use_preset_vocabulary: true
 import_tables:
   - luna_pinyin
-  - zhwiki
   - luna_pinyin.chengyusuyu
   - luna_pinyin.emoji.apple
   - luna_pinyin.emoji.cldr
