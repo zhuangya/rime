@@ -40,8 +40,8 @@ patch:
       horizontal: false
       inline_preedit: true
       candidate_format: "%c\u2005%@"
-      font_point: 16
-      label_font_point: 16
-      corner_radius: 3
-      border_height: 4
-      border_width: 4
+      font_point: 18
+      label_font_point: 14
+      corner_radius: 4
+      border_height: 6
+      border_width: 12
