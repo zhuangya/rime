@@ -10521,7 +10521,6 @@ use_preset_vocabulary: true
 大	da	99.85%
 大	dai	0.15%
 大	tai	0%
-大	xiao	0%
 夨	ze
 天	tian
 太	tai	100%
@@ -15335,7 +15334,6 @@ use_preset_vocabulary: true
 柕	mou
 柖	shao
 柗	song
-柘	tuo
 柘	zhe
 柙	jia
 柙	xia
@@ -26749,6 +26747,7 @@ use_preset_vocabulary: true
 诿	wei
 谀	yu
 谁	shei	22.31%
+谁	shui	77.69%
 谂	shen
 调	diao	30.33%
 调	tiao	69.67%
@@ -32462,14 +32461,14 @@ use_preset_vocabulary: true
 麬	fu
 麭	pao
 麮	qu
-麯	ju
-麯	qu
+麯	ju	0%
+麯	qu	100%
 麰	mou
 麱	fu
 麲	xian
 麳	lai
-麴	ju
-麴	qu
+麴	ju	0%
+麴	qu	100%
 麵	mian
 麶	chi
 麶	li
@@ -32790,6 +32789,8 @@ use_preset_vocabulary: true
 龤	yue
 龥	yu
 鿃	shan
+鿫	ao
+鿬	tian
 𠀀	he
 𠀁	qi
 𠀃	ji
@@ -47142,6 +47143,7 @@ use_preset_vocabulary: true
 𩭳	huo
 𩭷	min
 𩭺	fu
+𬌗	he
 𩭼	bao
 𩭽	ke
 𩭾	mao
@@ -53593,7 +53595,7 @@ use_preset_vocabulary: true
 大姊頭	da jie tou
 大姦似忠	da jian si zhong
 大學	da xue
-大學	tai xue
+大學	tai xue	0%
 大學校長	da xue xiao zhang
 大學院校	da xue yuan xiao
 大安地列斯羣島	da an di lie si qun dao
