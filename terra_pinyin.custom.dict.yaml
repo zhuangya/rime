@@ -1,7 +1,0 @@
----
-name: terra_pinyin.custom
-version: "2020.04.01"
-sort: by_weight
-use_preset_vocabulary: true
-import_tables:
-  - terra_pinyin

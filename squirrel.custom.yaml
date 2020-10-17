@@ -3,12 +3,6 @@
 ---
 patch:
   app_options:
-    org.vim.MacVim:
-      no_inline: false
-    uk.foon.Neovim:
-      no_inline: false
-    com.qvacua.VimR:
-      no_inline: false
     com.googlecode.iterm2:
       no_inline: true
     com.apple.Terminal:
