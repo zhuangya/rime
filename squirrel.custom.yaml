@@ -1,0 +1,34 @@
+patch:
+  preset_color_schemes:
+    focus:
+
+      author: "Ya Zhuang (https://zhuangya.me) <zhuangya@gmail.com>"
+      back_color: 0xFFFFFF
+      border_color: 0xFFFFFF
+      border_color_width: 0
+      border_height: 0
+      border_width: 0
+      candidate_text_color: 0x000000
+      color_space: display_p3
+      comment_text_color: 0x333333
+      corner_radius: 4
+      font_face: "PingFangSC"
+      font_point: 22
+      hilited_back_color: 0xff6208
+      hilited_candidate_label_color: 0xFFFFFF
+      hilited_candidate_text_color: 0xFFFFFF
+      hilited_comment_text_color: 0x999999
+      hilited_corner_radius: 0
+      hilited_text_color: 0xffffff
+      inline_preedit: true
+      label_color: 0x999999
+      label_font_face: "Menlo"
+      label_font_point: 14
+      line_spacing: 4
+      name: "Focus"
+      spacing: 4
+      text_color: 0x424242
+      text_orientation: horizontal
+
+  style:
+    color_scheme: focus
