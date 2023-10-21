@@ -1,0 +1,5 @@
+__patch:
+# Rx: lotem/rime-octagram-data:customize:schema=jyut6ping3,model=hant {
+  - patch/+:
+      __include: grammar:/hant
+# }
